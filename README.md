@@ -1,6 +1,6 @@
 # Split Text Into Multiline : javascript
-#To split a text into multiline based on width
-#split text into lines javascript by width
+
+To split a text into multiline based on width
 
 Step to Follow:
 on the script line 2: just change the ElementId
